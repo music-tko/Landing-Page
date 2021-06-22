@@ -1,0 +1,36 @@
+h1, h2{
+    text-align: center;
+}
+.bg-header{
+    width: 1340px;
+    background-image: url(images/bg-header-desktop.png);
+    height: 300px;
+}
+.header{
+    max-width: 1440px;
+    height: 500px;
+}
+.header-description{
+    text-align: center;
+}
+button{
+    display: flex;
+    align-items: center;
+}
+.g-button{
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 30px;
+    border-color: hsl(171, 66%, 44%);
+    background-color: hsl(171, 66%, 44%);
+}
+.b-button{
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 30px;
+    border-color: hsl(233, 100%, 69%);
+    background-color: hsl(233, 100%, 69%);
+}
